@@ -2,7 +2,7 @@
 # Project Name
 Event listing platform
 ## Team members
-1. Mishaba N [https://github.com/Nechiyil/abimis_StackUp.git]
+1. Mishaba N []
 2. Anjal U []
 3. Abhina MP []
 ## Team Id
